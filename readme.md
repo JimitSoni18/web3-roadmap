@@ -23,6 +23,6 @@ you may first want to read about hashing and encryption. or watch a few videos b
     - [Difference between Merkle tree and Patricia trie (stack exchange)](https://cs.stackexchange.com/questions/63048/what-is-the-difference-between-radix-trees-and-patricia-tries)
 8. [Accounts on Ethereum](https://ethereum.org/en/developers/docs/accounts/)
 9. [Transaction on Ethereum](https://ethereum.org/en/developers/docs/transactions/)
-10. [The Ethereum Virtual Machine (EVM)]:(https://ethereum.org/en/developers/docs/evm/)
+10. [The Ethereum Virtual Machine (EVM)](https://ethereum.org/en/developers/docs/evm/)
     - [EVM Illustrated](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
 11. [Gas and fees on ethereum](https://ethereum.org/en/developers/docs/gas/)
